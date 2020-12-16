@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <h2>Hello World</h2>
+    <h2>My first netlify deployment</h2>
   </Layout>
 )
 
